@@ -1,6 +1,6 @@
 # atom-umlautify
 
-Encode and decode umlauts in Atom without destroying HTML.
+Encode and decode umlauts in Atom without destroying HTML
 
 ## Installation
 
@@ -14,5 +14,5 @@ Or Settings/Preferences ➔ Packages ➔ Search for `atom-umlautify`
 
 ## Usage
 
-<kbd>shift</kbd>-<kbd>F5</kbd> Encode
-<kbd>shift</kbd>-<kbd>F6</kbd> Decode
+* <kbd>shift</kbd>-<kbd>F5</kbd> Encode
+* <kbd>shift</kbd>-<kbd>F6</kbd> Decode
