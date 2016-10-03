@@ -1,0 +1,6 @@
+{
+  "atom-workspace": {
+    "shift-f5": "atom-umlautify:encode",
+    "shift-f6": "atom-umlautify:decode"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Atom Umlautify",
+        "submenu": [
+          {
+            "label": "Encode",
+            "command": "atom-umlautify:encode"
+          },
+          {
+            "label": "Decode",
+            "command": "atom-umlautify:decode"
+          }
+        ]
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Atom Umlautify",
+          "submenu": [
+            {
+              "label": "Encode",
+              "command": "atom-umlautify:encode"
+            },
+            {
+              "label": "Decode",
+              "command": "atom-umlautify:decode"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
